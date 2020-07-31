@@ -1,0 +1,14 @@
+C:\Users\MacBook Air\source\repos\qr\bin\Debug\qr.exe.config
+C:\Users\MacBook Air\source\repos\qr\bin\Debug\qr.exe
+C:\Users\MacBook Air\source\repos\qr\bin\Debug\qr.pdb
+C:\Users\MacBook Air\source\repos\qr\bin\Debug\qr.xml
+C:\Users\MacBook Air\source\repos\qr\obj\Debug\qr.vbprojAssemblyReference.cache
+C:\Users\MacBook Air\source\repos\qr\obj\Debug\qr.Form1.resources
+C:\Users\MacBook Air\source\repos\qr\obj\Debug\qr.Resources.resources
+C:\Users\MacBook Air\source\repos\qr\obj\Debug\qr.vbproj.GenerateResource.cache
+C:\Users\MacBook Air\source\repos\qr\obj\Debug\qr.vbproj.CoreCompileInputs.cache
+C:\Users\MacBook Air\source\repos\qr\obj\Debug\qr.exe
+C:\Users\MacBook Air\source\repos\qr\obj\Debug\qr.xml
+C:\Users\MacBook Air\source\repos\qr\obj\Debug\qr.pdb
+C:\Users\MacBook Air\source\repos\qr\bin\Debug\QRCoder.dll
+C:\Users\MacBook Air\source\repos\qr\obj\Debug\qr.vbproj.CopyComplete
